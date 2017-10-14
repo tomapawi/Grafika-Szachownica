@@ -1,0 +1,9 @@
+C:\Users\Oem\documents\visual studio 2010\Projects\Szachownica\Szachownica\bin\Debug\Szachownica.exe
+C:\Users\Oem\documents\visual studio 2010\Projects\Szachownica\Szachownica\bin\Debug\Szachownica.pdb
+C:\Users\Oem\documents\visual studio 2010\Projects\Szachownica\Szachownica\obj\x86\Debug\Grafika.Form1.resources
+C:\Users\Oem\documents\visual studio 2010\Projects\Szachownica\Szachownica\obj\x86\Debug\Grafika.Form2.resources
+C:\Users\Oem\documents\visual studio 2010\Projects\Szachownica\Szachownica\obj\x86\Debug\Grafika.Form3.resources
+C:\Users\Oem\documents\visual studio 2010\Projects\Szachownica\Szachownica\obj\x86\Debug\Grafika.Properties.Resources.resources
+C:\Users\Oem\documents\visual studio 2010\Projects\Szachownica\Szachownica\obj\x86\Debug\Szachownica.csproj.GenerateResource.Cache
+C:\Users\Oem\documents\visual studio 2010\Projects\Szachownica\Szachownica\obj\x86\Debug\Szachownica.exe
+C:\Users\Oem\documents\visual studio 2010\Projects\Szachownica\Szachownica\obj\x86\Debug\Szachownica.pdb

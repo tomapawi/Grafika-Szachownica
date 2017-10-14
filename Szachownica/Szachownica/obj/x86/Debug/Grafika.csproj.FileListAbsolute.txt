@@ -1,0 +1,9 @@
+C:\Users\Oem\AppData\Local\Temporary Projects\Grafika\bin\Debug\Grafika.exe
+C:\Users\Oem\AppData\Local\Temporary Projects\Grafika\bin\Debug\Grafika.pdb
+C:\Users\Oem\AppData\Local\Temporary Projects\Grafika\obj\x86\Debug\Grafika.Form1.resources
+C:\Users\Oem\AppData\Local\Temporary Projects\Grafika\obj\x86\Debug\Grafika.Properties.Resources.resources
+C:\Users\Oem\AppData\Local\Temporary Projects\Grafika\obj\x86\Debug\Grafika.csproj.GenerateResource.Cache
+C:\Users\Oem\AppData\Local\Temporary Projects\Grafika\obj\x86\Debug\Grafika.exe
+C:\Users\Oem\AppData\Local\Temporary Projects\Grafika\obj\x86\Debug\Grafika.pdb
+C:\Users\Oem\AppData\Local\Temporary Projects\Grafika\obj\x86\Debug\Grafika.Form2.resources
+C:\Users\Oem\AppData\Local\Temporary Projects\Grafika\obj\x86\Debug\Grafika.Form3.resources
